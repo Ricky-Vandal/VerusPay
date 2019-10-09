@@ -277,7 +277,6 @@ Bug fixes
 Add QR Invoice functionality
 
 ## Support
-
 I'm presently unavailable but will be back in a couple weeks (roughly early Nov) to help anyone. In the meantime, please visit the Verus Coin official Discord at [VerusCoin Official Discord](https://discord.gg/VRKMP2S)
 
 * Learn about the [Verus Coin official site](https://veruscoin.io) for more information about the community project
